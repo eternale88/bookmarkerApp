@@ -6,7 +6,7 @@ My bookmarking App that allows a user to save and delete their favorite websites
 
 ## Motivation
 
-To learn more about and grow my skills in frontend development and working with HTML5 API's and ES6 JavaScript . 
+To learn more about and grow my skills in frontend development and working with HTML5'a local storage API and ES6 JavaScript . 
 
 ## Installation
 
